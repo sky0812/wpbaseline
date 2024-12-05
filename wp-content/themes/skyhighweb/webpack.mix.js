@@ -26,6 +26,7 @@ mix.browserSync({
   open: 'external',
   notify: false,
   injectChanges: true,
+  reloadDelay: 3000,
   files: [
     {
       match: [
