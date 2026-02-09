@@ -35,7 +35,7 @@
   npm run watch
 ```                                                                                                                                                           
                                                                                                                                                                                
-  scripts                                                                                                                                                                      
+ scripts                                                                                                                                                                      
   ┌────────────────────┬───────────────────────────┐                                                                                                                           
   │      command       │        description        │                                                                                                                           
   ├────────────────────┼───────────────────────────┤                                                                                                                           
@@ -47,23 +47,6 @@
   ├────────────────────┼───────────────────────────┤                                                                                                                           
   │ npm run production │ minified production build │                                                                                                                           
   └────────────────────┴───────────────────────────┘                                                                                                                           
-  file structure                                                                                                                                                               
-                                                                                                                                                                               
-  skyhighweb/                                                                                                                                                                  
-  ├── resources/                                                                                                                                                               
-  │   ├── css/                                                                                                                                                                 
-  │   └── js/                                                                                                                                                                  
-  ├── template-parts/                                                                                                                                                          
-  ├── functions.php                                                                                                                                                            
-  ├── header.php                                                                                                                                                               
-  ├── footer.php                                                                                                                                                               
-  ├── index.php                                                                                                                                                                
-  ├── single.php                                                                                                                                                               
-  ├── 404.php                                                                                                                                                                  
-  ├── tailwind.config.js                                                                                                                                                       
-  ├── webpack.mix.js                                                                                                                                                           
-  └── theme.json                                                                                                                                                               
-                                                                                                                                                                               
   recommended plugins                                                                                                                                                          
                                                                                                                                                                                
   these are not included in the repo. install separately based on project needs.                                                                                               
@@ -94,4 +77,4 @@
   └────────────────┴─────────────────────────┴────────────────────────────────────────────────────────────┘                                                                    
   credits                                                                                                                                                                      
                                                                                                                                                                                
-  based on https://github.com/jeffreyvr/tailpress by jeffrey van rossum.  
+  based on https://github.com/jeffreyvr/tailpress by jeffrey van rossum.      
